@@ -28,7 +28,7 @@
     <br>
       🔭 Actually I work with backend in Python, Postgres and AWS<br>
       🌱 Estudando: Ciências de Dados<br>
-      📫 Contact me: franciscomatosjr@gmail.com<br>
+      📫 Contact me: franciscopmjr@gmail.com<br>
       😄 Pronous: Ele/Dele<br><br>
      
  </div>
