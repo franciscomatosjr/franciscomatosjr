@@ -27,13 +27,9 @@
 <div align="center"><br>About me:
     <br>
       🔭 Actually I work with backend in Python, Postgres and AWS<br>
-      🌱 Estudando: Ciências de Dados<br>
-      📫 Contact me: franciscopmjr@gmail.com<br>
-      😄 Pronous: Ele/Dele<br><br>
      
  </div>
 <div align="center">
-  <a href = "mailto:franciscopmjr@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    <a href="https://www.linkedin.com/in/franciscomatosjr" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 
   ![Snake animation](https://github.com/franciscomatosjr/franciscomatosjr/blob/output/github-contribution-grid-snake.svg)  
